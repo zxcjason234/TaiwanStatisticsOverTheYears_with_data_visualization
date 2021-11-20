@@ -14,5 +14,6 @@
 - DataFrame
 
 ![image](https://user-images.githubusercontent.com/43669016/142719695-aaa0a2d9-530c-4560-bee6-0de141c052f0.png)
+![image](https://user-images.githubusercontent.com/43669016/142719703-b9e61632-5b04-4ece-af5b-e88bb4ec0a34.png)
 
 ![image](https://user-images.githubusercontent.com/43669016/142719378-f02801cb-f097-4c4d-a037-f3128b042da7.png)
