@@ -10,7 +10,7 @@
 - Annual_Count_of_Visitors_purpose_in_Taiwan
 
 # 使用工具
-- plotly
+- Plotly(Dash)
 - DataFrame
 
 ![image](https://user-images.githubusercontent.com/43669016/142719378-f02801cb-f097-4c4d-a037-f3128b042da7.png)
