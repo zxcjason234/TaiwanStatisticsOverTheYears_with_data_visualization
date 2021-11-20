@@ -1,7 +1,7 @@
 # TaiwanStatisticsOverTheYears_with_data_visualization
  
 # 資料視覺化
-# 利用政府開放平台OpenData
+# 政府開放平台OpenData
 - 2015_Count_of_Visitors_in_Taiwan(by_sex)
 - Annual_Age_Count_of_Visitors_in_Taiwan
 - Annual_Count_of_Visitors_in_Taiwan
